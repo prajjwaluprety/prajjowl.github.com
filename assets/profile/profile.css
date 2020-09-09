@@ -305,7 +305,7 @@ nav {
     }
     .sidebar-line {
         display: inline-block;
-        margin-bottom: 15vh;
+        margin-bottom: 7em;
         margin-left: 4em;
         padding: 0em;
         position: fixed;
@@ -321,7 +321,7 @@ nav {
         bottom: 0;
         padding: 0em;
         margin-left: 2.4em;
-        margin-bottom: 26vh;
+        margin-bottom: 13em;
         position: fixed;
         transform: rotate(-90deg);
         -webkit-transform: rotate(-90deg);

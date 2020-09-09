@@ -372,7 +372,7 @@
      }
      .sidebar-line {
          display: inline-block;
-         margin-bottom: 15vh;
+         margin-bottom: 7em;
          margin-left: 4em;
          padding: 0em;
          position: fixed;
@@ -388,7 +388,7 @@
          bottom: 0;
          padding: 0em;
          margin-left: 1.5em;
-         margin-bottom: 28vh;
+         margin-bottom: 14em;
          position: fixed;
          transform: rotate(-90deg);
          -webkit-transform: rotate(-90deg);
